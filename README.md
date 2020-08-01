@@ -1,2 +1,2 @@
 # AE2
- Unsupervised Classification Using Autoencoders
+ Unsupervised image Classification Using Autoencoders
